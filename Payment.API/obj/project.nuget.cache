@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5Nr4c7OhQNHzbRinK+flM7Eya9RyNGivDzRcpmFrIFdp8X/MQ+BnaO8h/6QisERUVPdvns05BeV7MlE3iPDeA==",
+  "success": true,
+  "projectFilePath": "/Users/can/Projects/MicroServices.API/MicroServiceArhitecture/Payment.API/Payment.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/can/.nuget/packages/masstransit/8.2.4/masstransit.8.2.4.nupkg.sha512",
+    "/Users/can/.nuget/packages/masstransit.abstractions/8.2.4/masstransit.abstractions.8.2.4.nupkg.sha512",
+    "/Users/can/.nuget/packages/masstransit.rabbitmq/8.2.4/masstransit.rabbitmq.8.2.4.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.aspnetcore.openapi/7.0.19/microsoft.aspnetcore.openapi.7.0.19.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.diagnostics.healthchecks/6.0.1/microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.diagnostics.healthchecks.abstractions/6.0.1/microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.hosting.abstractions/6.0.0/microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.1/microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/can/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/can/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/can/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/can/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
